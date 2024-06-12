@@ -1,8 +1,9 @@
-# FDS-Model
-Project Structure
-Landing Page: The homepage of the web application, providing an overview of the fraud detection system and its features.
-Form Page: A form where users can input transaction details to check for potential fraud.
-
+# Financial Fraud detection-Model
+Project Structure - 
+- > Landing Page: The homepage of the web application, providing an overview of the fraud detection system and its features.
+- > Form Page: A form where users can input transaction details to check for potential fraud.
+- > API Usage: Demonstrates how to interact with the model programmatically via API calls
+  
 ![Screenshot 2024-06-13 004238](https://github.com/Ishita2407/FDS-Model/assets/91796142/e12e2b9a-d228-4111-a89f-d4cf80403c5a)
 
 ![Screenshot 2024-06-13 004259](https://github.com/Ishita2407/FDS-Model/assets/91796142/f5d3e6a2-cc2f-4252-b393-58e6035eeaa5)
