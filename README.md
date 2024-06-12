@@ -29,3 +29,8 @@ Project Structure -
 
 ![Screenshot 2024-06-13 002445](https://github.com/Ishita2407/FDS-Model/assets/91796142/75c0f731-8e13-4a13-8488-cb9413074720)
 
+Features
+- > Multiple Models: Utilizes Random Forest, XGBoost, KNN, and a Neural Network for fraud detection.
+- > User-Friendly Interface: An intuitive web interface for users to submit transaction details and receive fraud predictions.
+- > API Access: Allows for programmatic access to the fraud detection model for integration with other applications.
+  
