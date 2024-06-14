@@ -25,7 +25,19 @@ Project Structure -
 
 ![Screenshot 2024-06-13 002350](https://github.com/Ishita2407/FDS-Model/assets/91796142/008db83b-2734-4439-bef9-cee90734c370)
 
+The provided JavaScript and Python codes are designed to send a POST request to a specified API endpoint to get a prediction.
+
+- How to Use the JavaScript Function ? 
+Include this function in a script tag within an HTML file.
+Call getPrediction() to make the API request.
+Ensure there is an HTML element with the id result to display the response.
+
 ![Screenshot 2024-06-13 002417](https://github.com/Ishita2407/FDS-Model/assets/91796142/7f1a64c9-8488-4e03-bec0-802335491655)
+
+- How to Use the Python Script
+Ensure you have the requests library installed (pip install requests).
+Run the script using Python.
+The script will print the response to the console if the request is successful.
 
 ![Screenshot 2024-06-13 002445](https://github.com/Ishita2407/FDS-Model/assets/91796142/75c0f731-8e13-4a13-8488-cb9413074720)
 
