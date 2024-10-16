@@ -1,14 +1,6 @@
 # Overview
 This repository showcases a financial fraud detection model built using multiple machine learning algorithms, including Random Forest, XGBoost, K-Nearest Neighbors (KNN), and a Neural Network. The project aims to detect fraudulent transactions effectively, leveraging the strengths of each model to improve accuracy and reliability.
 
-# Project Structure
-- Landing Page: The homepage of the web application, providing an overview of the fraud detection system and its features.
-- Form Page: A form where users can input transaction details to check for potential fraud.
-- API Usage: Demonstrates how to interact with the model programmatically via API calls.
-# Features
-- Multiple Models: Utilizes Random Forest, XGBoost, KNN, and a Neural Network for fraud detection.
-- User-Friendly Interface: An intuitive web interface for users to submit transaction details and receive fraud predictions.
-- API Access: Allows for programmatic access to the fraud detection model for integration with other applications.
 
 # Landing Page
 Description: The landing page provides an overview of the fraud detection system, including its purpose and features.
@@ -21,6 +13,10 @@ Description: The landing page provides an overview of the fraud detection system
 
 ![Screenshot 2024-06-13 004346](https://github.com/user-attachments/assets/1a03b9fe-7a16-4852-a335-428c42f45193)
 
+# Features
+- Multiple Models: Utilizes Random Forest, XGBoost, KNN, and a Neural Network for fraud detection.
+- User-Friendly Interface: An intuitive web interface for users to submit transaction details and receive fraud predictions.
+- API Access: Allows for programmatic access to the fraud detection model for integration with other applications.
 
 ![Screenshot 2024-06-13 004409](https://github.com/user-attachments/assets/d65ad3bf-02c7-4057-99a8-27d73fda72a7)
 
